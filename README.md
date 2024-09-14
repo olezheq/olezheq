@@ -12,7 +12,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker&logoColor=47C5FB)](https://en.wikipedia.org/wiki/Docker_(software))
 [![Spark](https://img.shields.io/badge/-Spark-090909?style=for-the-badge&logo=apachespark&logoColor=F88C00)](https://en.wikipedia.org/wiki/Apache_Spark)
 [![Go](https://img.shields.io/badge/-Go-090909?style=for-the-badge&logo=go&logoColor=47C5FB)]([https://en.wikipedia.org/wiki/NumPy](https://en.wikipedia.org/wiki/Go_(programming_language)))
-[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=E9D54D)](https://en.wikipedia.org/wiki/Python_(programming_language))
+[![Hadoop](https://img.shields.io/badge/-Hadoop-090909?style=for-the-badge&logo=apachehadoop&logoColor=FFFFFF)]([https://en.wikipedia.org/wiki/Python_(programming_language)](https://en.wikipedia.org/wiki/Apache_Hadoop))
 [![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=0ABAB5)](https://en.wikipedia.org/wiki/FastAPI)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/PostgreSQL)
 [![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Git)
